@@ -1,0 +1,17 @@
+
+/* Botones */
+
+.btn-producto{
+    padding-left: 10%;
+    padding-right: 10%;
+    border-color: #e46425; 
+    color: #e46425; 
+    font-size: 1.25rem; 
+}
+
+
+.btn-producto :hover{
+    background-color: lightgrey;
+    border-color: darkgray; 
+    color: black; 
+}
